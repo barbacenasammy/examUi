@@ -1,0 +1,3 @@
+main background:	333333
+TOP & SIDE NAV:		595959
+Paper Body: 		999999
